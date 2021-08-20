@@ -39,7 +39,7 @@ El desafio, se centra en encontrar un estimación para las zonas en donde la inf
 
 <img src="https://github.com/sandboxDANE/IPM-Pobrezamultidimensional/blob/cf8fa865e1d6deee846bc9698fc1a1920c894b76/Figuras/CEROS_municipality_IPM_26_01_2021.png"> 
 
-Los resultados del IPM censal solo son posibles en años en donde se realicen censos. Por tanto, este ejercicio  consiste en determinar una medición de estas zonas para el año 2018.
+Los resultados del IPM censal solo son posibles en años en donde se realicen censos. Por tanto, este ejercicio  consiste en determinar una medición de estas zonas para los años 2016 a 2020.
 
 3. [Piloto DataSandbox:](#piloto) 
 Este piloto consiste en un ejercicio experimental para obtener predicciones del IPM usando los ajustes realizados en la Fase I (https://github.com/sandboxDANE/IPM-Pobrezamultidimensional).  Esta sección presenta un proyecto piloto en el cual se desarrolló al final un visor   de las diferentes predicciones del IPM. Las fases de esta implementación se resumen en el siguiente gráfico:
@@ -49,9 +49,24 @@ Donde la fase 3 es ejecutada en la plataforma [DataSanbox](https://sandbox.datos
 4. [Conjuntos de datos:](#insumos) Se usarón insumos censales, marco geostadítistico nacional, imágenes satelitales y covariados extraidos de las mismas. Sin embargo, en esta plataforma solo se comparten bases alfanúmericas.    
 
 5. [Metodología:](#Metodología) En el siguiente enlace podra descargar el documento metodológico:  [metodogía](https://www.dane.gov.co/files/investigaciones/experimentales/ipm/IPM-documento-metodologico.pdf)
-6. [Visualización resultados:](#visualizacion) Producto del análisis, se obtiene una distribución del IPM para todo el territorio nacional, el siguiente gráfico muestra el comportamiento del IPM predicho usando solo información de las imágenes satelitales:
-<img src="Figuras/ipm_Directas_GBTR_v2_26_01_2021.png"> 
+6. [Visualización resultados:](#visualizacion) Producto del análisis, se obtiene una distribución del IPM para todo el territorio nacional, los siguientes gráficos se muestra el comportamiento del IPM predicho usando solo información de las imágenes satelitales:
 
+2016 
+<img src="images/mapa_sp16_GBTR_2016.png"> 
+
+2017 
+<img src="images/mapa_sp17_GBTR_2017.png"> 
+
+2018 
+<img src="images/mapa_sp17_GBTR_2018.png"> 
+
+2019 
+<img src="images/mapa_sp18_GBTR_2019.png"> 
+
+2020 
+<img src="images/mapa_sp20_GBTR_2020.png"> 
+
+El siguiente gráfico compara las densidades de las predcciones para cada uno de los años 
 [Enlace para ver los resultados en el visor ](https://visores.dane.gov.co/visor-nuevo-ipm/)
 
 
