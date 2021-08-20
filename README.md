@@ -66,11 +66,12 @@ Donde la fase 3 es ejecutada en la plataforma [DataSanbox](https://sandbox.datos
 2020 
 <img src="images/mapa_sp20_GBTR_2020.png"> 
 
-El siguiente gráfico compara las densidades de las predcciones para cada uno de los años 
+El siguiente gráfico compara las densidades de las predcciones para cada uno de los años  descando el año 2019 como que presenta la mayores discrepancias respecto al de referencia 2018:
+
+<img src="images/densidades.jpeg"> 
+
+
 [Enlace para ver los resultados en el visor ](https://visores.dane.gov.co/visor-nuevo-ipm/)
-
-
-
 
 
 
